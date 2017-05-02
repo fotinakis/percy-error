@@ -1,5 +1,6 @@
 {
   "name": "test-percy",
   "dependencies": {
+    "fauxjax": "^1.6.0"
   }
 }
